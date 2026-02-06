@@ -1,14 +1,17 @@
 # 👋 Hi there, I'm Anqi!
 
-☁️ **Software Developer transitioning into DevOps & Cloud Engineering**  
-🔧 Passionate about building scalable systems, automating workflows, and designing cloud-native solutions.  
-📍 Currently exploring **AWS, Kubernetes, and CI/CD pipelines** to bridge the gap between development and operations.  
 
+I’m a cloud engineer / developer with a strong foundation in backend systems, cloud infrastructure, and platform engineering.  
+I enjoy building reliable systems — and increasingly, thoughtful products that combine **AI, data, and visual expression**.
 
-## 🔥 **What I'm Currently Up To**
-- 🌱 Learning **DevOps best practices** through hands-on projects & certifications.
-- 🛠️ Building real-world **AWS infrastructure & automation projects**.
-- 📝 Sharing insights & tutorials about **Cloud, DevOps, and Software Engineering**.
+---
+
+## 🏗️ Background
+
+- 💻 Software Engineer / Cloud Engineer  
+- ☁️ AWS · Kubernetes · Docker · Python · Java  
+- 🧩 Experience with distributed systems, event-driven architectures, and cloud-native services  
+- 📍 Based in Canada 
 
 
 ## 🛠️ **Tech Stack & Tools**
