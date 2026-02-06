@@ -20,17 +20,28 @@
 
 ### 🔍  **Monitoring & Logging**: ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-2496ED?style=flat&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-ED8B00?style=flat&logo=kibana&logoColor=white) 
 
-## 🚀 **Current Goals & Roadmap (2025)**
-### **🔹 Short-Term (Next 4-6 Months)**
-- 🎓 **Earn a DevOps Certification** (AWS/Kubernetes/Terraform)  
-- 🛠️ **Build 3 DevOps Projects** (Infrastructure as Code, CI/CD pipelines, Kubernetes deployment)  
-- 📚 **Enhance problem-solving skills** (Leetcode, System Design)  
-- 🎥 **Start sharing DevOps & Cloud content on LinkedIn/GitHub**
+## 📆 Last year
+In **2025**, I earned the **AWS Certified DevOps Engineer – Professional** certification, strengthening my expertise in:
+- CI/CD pipelines
+- Infrastructure as Code
+- Cloud reliability, security, and observability
+- Production-grade operations and troubleshooting
 
-### **🔹 Long-Term (2025 & Beyond)**
-- 💼 **Transition to a DevOps/Cloud Engineering role**  
-- 📖 **Write technical blogs & tutorials**  
-- 🌍 **Engage in open-source contributions & DevOps communities**
+## 🌱 Current Focus (2026)
+
+This year, my focus is on **expanding beyond pure dev and infrastructure** and building at the intersection of engineering, AI, and visual systems:
+
+### 🤖 AI & ML Systems
+- AI-powered applications and services
+- Model deployment, inference pipelines, and ML system design
+- Practical LLM integration in real-world products
+
+### 🎨 Visual & Creative Technology
+- Data visualization and interactive interfaces
+- Photography-driven and visual computing projects
+- Exploring how technology can support clarity, creativity, and human-centered design
+
+I’m especially interested in **end-to-end systems** — from infrastructure to user-facing experience.
 
 <!---  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=onlyanqi&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
