@@ -60,7 +60,13 @@ I’m especially interested in **end-to-end systems** — from infrastructure to
 🔹 [📌 Project 1: AWS Infrastructure Automation](#)  
 🔹 [📌 Project 2: CI/CD Pipeline with Jenkins & Kubernetes](#)  
 🔹 [📌 Project 3: Event-Driven Microservices with Kafka](#)   --->
-*(More coming soon... 🚧)* 
+### [Moodboard Radio](https://onlyanqi.github.io/moodboard-radio/)
+
+Three illustrated listening rooms—Rainy Window, Golden Hour, and Night Train—with lo-fi guitar music, animated SVG scenes, and an independent rain mix. I designed the room experience and built accessible controls, playlist progression, and resilient audio playback, adapting open-source playback patterns with attribution.
+
+**JavaScript · SVG animation · Web Audio · Automated tests · GitHub Pages**
+
+[Try the listening rooms](https://onlyanqi.github.io/moodboard-radio/) · [Source code](https://github.com/onlyanqi/moodboard-radio) · [My portfolio](https://onlyanqi.github.io/portfolio/) 
 
 
 
