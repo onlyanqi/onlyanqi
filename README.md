@@ -61,6 +61,16 @@ I’m especially interested in **end-to-end systems** — from infrastructure to
 🔹 [📌 Project 1: AWS Infrastructure Automation](#)  
 🔹 [📌 Project 2: CI/CD Pipeline with Jenkins & Kubernetes](#)  
 🔹 [📌 Project 3: Event-Driven Microservices with Kafka](#)   --->
+### [Access Studio](https://github.com/onlyanqi/access-studio)
+
+A collaboration workspace that makes permissions understandable: real sign-in, invitations, document sharing, and a live inspector showing who can access what—and why. I designed the pastel interface and built server-enforced authorization, workspace isolation, audit history, and an interactive demo with separate visitor data.
+
+**TypeScript · Next.js · Better Auth · SQLite · Playwright · GitHub Actions**
+
+Working MVP with 13 passing tests. Runs locally; public hosting is the next step.
+
+[Explore the source and screenshots](https://github.com/onlyanqi/access-studio) · [Permission model](https://github.com/onlyanqi/access-studio/blob/main/docs/permissions.md)
+
 ### [Moodboard Radio](https://onlyanqi.github.io/moodboard-radio/)
 
 Three illustrated listening rooms—Rainy Window, Golden Hour, and Night Train—with lo-fi guitar music, animated SVG scenes, and an independent rain mix. I designed the room experience and built accessible controls, playlist progression, and resilient audio playback, adapting open-source playback patterns with attribution.
