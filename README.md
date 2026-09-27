@@ -61,6 +61,16 @@ I’m especially interested in **end-to-end systems** — from infrastructure to
 🔹 [📌 Project 1: AWS Infrastructure Automation](#)  
 🔹 [📌 Project 2: CI/CD Pipeline with Jenkins & Kubernetes](#)  
 🔹 [📌 Project 3: Event-Driven Microservices with Kafka](#)   --->
+### [Replay Studio](https://github.com/onlyanqi/replay-studio)
+
+An interactive reliability lab where real background jobs encounter controlled failures, retry with exponential backoff, and recover through manual replay. I built the event timeline, isolated visitor sessions, replay lineage, and an atomic receipt ledger that demonstrates duplicate prevention.
+
+**TypeScript · React · Express · BullMQ · Valkey · Playwright**
+
+Working local MVP with 16 passing tests, including concurrent delivery attempts, worker restart, and connection-loss recovery. Public hosting is the next step.
+
+[Explore the source and screenshots](https://github.com/onlyanqi/replay-studio) · [Reliability model](https://github.com/onlyanqi/replay-studio/blob/main/docs/reliability.md)
+
 ### [Access Studio](https://github.com/onlyanqi/access-studio)
 
 A collaboration workspace that makes permissions understandable: real sign-in, invitations, document sharing, and a live inspector showing who can access what—and why. I designed the pastel interface and built server-enforced authorization, workspace isolation, audit history, and an interactive demo with separate visitor data.
